@@ -13,6 +13,7 @@ pip2 install requests
 pip2 install mechanize 
 
 git clone https://github.com/arvel-noob/litenoob
+
 cd litenoob
 
 python free.py
